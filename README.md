@@ -1,5 +1,6 @@
 # GAIA_classification_monograph
 See: raw
+
 Python codes used for the monograph
 Estadisticos.py: Python file with features based on numpy
 
@@ -30,3 +31,5 @@ TRAIN_TEST_GAIA: Trains on LMC stars and shows resulting classification of GSEP 
             Save figure? Y->saves figure N->does not save figure
             Show figure? Y->shows figure N->dos not show figure
   output:Prints GSEP classification by star type.
+
+Besura: Other files as histogram creators, specific trainings, histograms, deleted codes
